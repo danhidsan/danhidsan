@@ -1,6 +1,4 @@
-<table border="0">
-  <tr>
-    <td>
+<img width=190 align="right" src="./img/animoji.png" />
 
 ## Hi, I'm Dani
 
@@ -13,9 +11,3 @@ Software Engineer and Developer. Currently I'm Mobile developer at @z1digitalstu
 ## About me
 
 :coffee: :beer: :computer: :technologist: :weight_lifting: :running_man:
-    </td>
-    <td>
-      ![Texto alternativo](./img/animoji.png)
-    </td>
-  </tr>
-</table>
