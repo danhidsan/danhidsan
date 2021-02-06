@@ -1,8 +1,4 @@
-<table borders=0>
-  <tr>
-    <td>
-
-## Hi, I'm Dani
+## Hi, I'm Dani  ![Texto alternativo](./img/animoji.png)
 
 Software Engineer and Developer. Currently I'm Mobile developer at @z1digitalstudio, mainly focused on building cross platform mobile apps with React Native.
 
@@ -13,9 +9,4 @@ Software Engineer and Developer. Currently I'm Mobile developer at @z1digitalstu
 ## About me
 
 :coffee: :beer: :computer: :technologist: :weight_lifting: :running_man:
-    </td>
-    <td>
-      ![Texto alternativo](./img/animoji.png)
-    </td>
-  </tr>
-</table>
+
